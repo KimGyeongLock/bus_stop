@@ -1,0 +1,33 @@
+header {
+    /* 필요한 스타일을 여기에 추가하세요 */
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+}
+
+#data {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap; /* 여러 줄로 배치할 때 */
+    justify-content: center;
+}
+
+.bus-info {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    width: 200px; /* 필요에 따라 조정 */
+    text-align: center;
+}
