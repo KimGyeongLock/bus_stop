@@ -1,5 +1,6 @@
 # bus_stop
-국토교통부_(TAGO)_버스도착정보 (공공데이터포털) API를 활용한 도착정보조회 서비스.    
+국토교통부_(TAGO)_버스도착정보 (공공데이터포털) API를 활용한 도착정보조회 서비스.     
+블로그 : <https://kimgyeonglock.github.io/htmlcss/api1/>
 ### 업데이트 목록
 * 시간 1초마다 count
 * timeout 다 돼 갈시 빨간색 변경
